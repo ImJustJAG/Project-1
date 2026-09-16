@@ -1,1 +1,33 @@
 /* Place CSS styles here */
+body {
+    background-color:#ffe4c4;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.numbered-list {
+    list-style-position: inside;
+}
+
+.bullet-list{
+    list-style: inside;
+}
+
+h3 {
+    color: #dc143c;
+}
+
+img {
+    border: 15px solid #7fff00;
+}
+
+a {
+    font-size: 20px;
+    font-weight: 500;
+    color:#dc143c;
+    padding: 9px 13px;
+    border-radius: 12px;
+    background-color:#ffd700;
+    text-decoration: none;
+}
